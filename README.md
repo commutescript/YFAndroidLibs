@@ -2,11 +2,12 @@
 ## YFAndroidLibs ##
 
 ### 关于（About）###
-这是抽取的工作日常工作代码形成的一个库，持续更新中。借鉴了一些网上现有的代码，在后续的介绍中会逐一提及。本文是基于android的库，后续会有iOS版本以及JS版本。
+这是抽取的工作日常工作代码形成的一个库，持续更新中。借鉴了一些网上现有的代码，在后续的介绍中会逐一提及。本文是基于android的库，后续会有iOS版本以及JS版本
  - 如何抽取
 自定义view和布局，然后加以封装，形成aar包。
- - 会上传到github：https://github.com/commutescript以及maven仓库。
-
+ - 用法及源码详解见CSDN：http://blog.csdn.net/u011072613/article/details/53889596
+ - 欢迎交流，欢迎start。
+ 
 ### 功能（Features）
 这个库包含的主要内容有：
 
@@ -116,3 +117,8 @@
 3.效果图见ScreenShots文件夹
 
 4.其他的还在测试中。敬请期待。
+
+###交流(Contacts)
+CSDN:http://blog.csdn.net/u011072613
+
+邮箱：yhcommute@outlook.com
