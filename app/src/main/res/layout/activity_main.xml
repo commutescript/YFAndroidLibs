@@ -1,0 +1,129 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="library测试demo"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="10dp"
+        android:textSize="20sp"
+        />
+
+    <LinearLayout
+        android:id="@+id/ll01"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:weightSum="4"
+        android:orientation="horizontal"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/title"
+        android:layout_margin="20dp"
+        >
+        <TextView
+            android:id="@+id/splash_txt"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="splash"
+            android:layout_weight="1"
+            android:gravity="center"
+            />
+        <TextView
+            android:id="@+id/guidepage_txt"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="guidepage"
+            android:layout_weight="1"
+            android:gravity="center"
+
+            />
+        <TextView
+            android:id="@+id/banner_txt"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="banner"
+            android:layout_weight="1"
+            android:gravity="center"
+
+            />
+        <TextView
+            android:id="@+id/tab_txt"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="tab"
+            android:layout_weight="1"
+            android:gravity="center"
+
+            />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/ll02"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:weightSum="4"
+        android:orientation="horizontal"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/ll01"
+        android:layout_margin="10dp"
+        >
+        <TextView
+            android:id="@+id/dw_txt"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="dw"
+            android:layout_weight="1"
+            android:gravity="center"
+            />
+        <TextView
+            android:id="@+id/search_txt"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="search"
+            android:layout_weight="1"
+            android:gravity="center"
+
+            />
+        <TextView
+            android:id="@+id/dialog_txt"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="dialog"
+            android:layout_weight="1"
+            android:gravity="center"
+
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="utils"
+            android:layout_weight="1"
+            android:gravity="center"
+
+            />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/ll03"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:weightSum="4"
+        android:orientation="horizontal"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/ll02"
+        android:layout_margin="10dp"
+        >
+        <TextView
+            android:id="@+id/tag_txt"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="tag"
+            android:layout_weight="1"
+            android:gravity="center"
+            />
+    </LinearLayout>
+
+</RelativeLayout>
