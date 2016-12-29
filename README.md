@@ -1,14 +1,13 @@
 # YFAndroidLibs
-## YFAndroidLibs ##
 
-### 关于（About）###
+## 关于（About）##
 这是抽取的工作日常工作代码形成的一个库，持续更新中。借鉴了一些网上现有的代码，在后续的介绍中会逐一提及。本文是基于android的库，后续会有iOS版本以及JS版本
  - 如何抽取
 自定义view和布局，然后加以封装，形成aar包。
  - 用法及源码详解见CSDN：http://blog.csdn.net/u011072613/article/details/53889596
  - 欢迎交流，欢迎start。
  
-### 功能（Features）
+## 功能（Features）
 这个库包含的主要内容有：
 
 1. [起始页splash](http://blog.csdn.net/u011072613/article/details/53899141)
@@ -34,7 +33,7 @@
 其中字体、颜色和背景的样式均可自定义，一键设置。
 
 
-### 导入（Usage）
+## 导入（Usage）
 
    1.导入aar包
   
@@ -78,7 +77,7 @@
    还在测试中，敬请期待！
 
 
-###代码（Code）
+##代码（Code）
    以SplashVIew为例：
    在布局中添加：
 
@@ -118,7 +117,7 @@
 
 4.其他的还在测试中。敬请期待。
 
-###交流(Contacts)
+##交流(Contacts)
 CSDN:http://blog.csdn.net/u011072613
 
 邮箱：yhcommute@outlook.com
