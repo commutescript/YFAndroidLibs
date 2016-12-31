@@ -1,13 +1,13 @@
 # YFAndroidLibs
-## YFAndroidLibs ##
 
-### 关于（About）###
-这是抽取的工作日常工作代码形成的一个库，持续更新中。借鉴了一些网上现有的代码，在后续的介绍中会逐一提及。本文是基于android的库，后续会有iOS版本以及JS版本。
+## 关于（About）##
+这是抽取的工作日常工作代码形成的一个库，持续更新中。借鉴了一些网上现有的代码，在后续的介绍中会逐一提及。本文是基于android的库，后续会有iOS版本以及JS版本
  - 如何抽取
 自定义view和布局，然后加以封装，形成aar包。
- - 会上传到github：https://github.com/commutescript以及maven仓库。
-
-### 功能（Features）
+ - 用法及源码详解见CSDN：http://blog.csdn.net/u011072613/article/details/53889596
+ - 欢迎交流，欢迎start。
+ 
+## 功能（Features）
 这个库包含的主要内容有：
 
 1. [起始页splash](http://blog.csdn.net/u011072613/article/details/53899141)
@@ -33,7 +33,7 @@
 其中字体、颜色和背景的样式均可自定义，一键设置。
 
 
-### 导入（Usage）
+## 导入（Usage）
 
    1.导入aar包
   
@@ -77,7 +77,7 @@
    还在测试中，敬请期待！
 
 
-###代码（Code）
+##代码（Code）
    以SplashVIew为例：
    在布局中添加：
 
@@ -113,50 +113,11 @@
 		});
     `
 
-###部分效果图（ScreenShot）  
-1. SplashView截图：
-
-![](http://i.imgur.com/PS9RusR.jpg)
-
-2.GuidePageView截图
-
-![](http://i.imgur.com/OBcPHD5.jpg)
-
-3.BannerView截图
-
-![](http://i.imgur.com/0vgTnrs.jpg)
-
-![](http://i.imgur.com/hIX2wfl.jpg)
-
-![](http://i.imgur.com/WoM8Qd4.jpg)
-
-4.TabView截图
-
-![](http://i.imgur.com/AjKq0kF.jpg)
-
-![](http://i.imgur.com/wS6ACvC.jpg)
-
-![](http://i.imgur.com/IqRDpvV.jpg)
-
-5.AddressView截图
-
-![](http://i.imgur.com/r4HtfF4.jpg)
-
-6.SerachView截图
-
-![](http://i.imgur.com/tkeiFPa.jpg)
-
-![](http://i.imgur.com/eUi8QGk.jpg)
-
-![](http://i.imgur.com/lVZOmec.jpg)
-
-7.DialogView截图
-![](http://i.imgur.com/SUA56Sk.jpg)
-
-8.TagView截图
-![](http://i.imgur.com/ZTj4mAw.jpg)
-
-![](http://i.imgur.com/AuGCZ5F.jpg)
-
+3.效果图见ScreenShots文件夹
 
 4.其他的还在测试中。敬请期待。
+
+##交流(Contacts)
+CSDN:http://blog.csdn.net/u011072613
+
+邮箱：yhcommute@outlook.com
