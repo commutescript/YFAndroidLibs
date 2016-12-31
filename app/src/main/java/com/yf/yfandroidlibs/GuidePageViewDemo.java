@@ -1,5 +1,12 @@
 package com.yf.yfandroidlibs;
 
+import java.util.ArrayList;
+import java.util.List;
+
+import com.github.yf_library.guidepage.GuideAdapter;
+import com.github.yf_library.guidepage.GuidePageView;
+import com.github.yf_library.guidepage.GuidePageStyle;
+
 import android.app.Activity;
 import android.content.Intent;
 import android.os.Bundle;
@@ -9,17 +16,10 @@ import android.widget.ImageView;
 import android.widget.LinearLayout;
 import android.widget.RelativeLayout;
 
-import com.github.yf_library.guidepage.GuideAdapter;
-import com.github.yf_library.guidepage.GuidePageView;
-import com.github.yf_library.guidepage.GuidePageViewStyle;
-
-import java.util.ArrayList;
-import java.util.List;
-
 public class GuidePageViewDemo extends Activity {
 
     private GuidePageView mGuidePageView;
-    private GuidePageViewStyle guidePageViewStyle;
+    private GuidePageStyle guidePageViewStyle;
     //设置图片
     private static final int[] pics = { R.drawable.guide3,
             R.drawable.guide2, R.drawable.guide1, R.drawable.guide2 };
@@ -36,8 +36,8 @@ public class GuidePageViewDemo extends Activity {
         mGuidePageView=(GuidePageView)findViewById(R.id.gp_view);
 
         guidePageViewStyle=mGuidePageView.getGuidePageStyle();
-//		guidePageViewStyle.setBtnStr("我要进入了");
-//		guidePageViewStyle.setBtnHeight(200);
+		guidePageViewStyle.setBtnStr("我要进入了");
+		guidePageViewStyle.setBtnHeight(200);
         mGuidePageView.setAdapter(new CustomGuideAdapter());
 
 //		mGuidePageView.setData(R.drawable.dot, pics);
@@ -53,7 +53,7 @@ public class GuidePageViewDemo extends Activity {
         });
     }
 
-    class CustomGuideAdapter extends GuideAdapter {
+    class CustomGuideAdapter extends GuideAdapter{
 
         @Override
         public List<View> getIndicator() {
@@ -63,9 +63,9 @@ public class GuidePageViewDemo extends Activity {
 
             for(int i = 0; i < pics.length; i++){
 
-                ImageView iv=(ImageView)LayoutInflater.from(getApplicationContext()).inflate(R.layout.dot_view, null);
+                ImageView iv=(ImageView)LayoutInflater.from(getApplicationContext()).inflate(R.layout.dot_view_yfdef, null);
                 ImageView iv01=new ImageView(getApplicationContext());
-                iv01.setBackgroundResource(R.drawable.dot);
+                iv01.setBackgroundResource(R.drawable.dot_yfdef);
                 iv01.setLayoutParams(mParams);
                 mParams.setMargins(20, 20, 20,
                         20);
@@ -85,7 +85,7 @@ public class GuidePageViewDemo extends Activity {
             views = new ArrayList<View>();
 
             for(int i = 0; i < pics.length; i++){
-                View view= LayoutInflater.from(getApplicationContext()).inflate(R.layout.img, null);
+                View view=LayoutInflater.from(getApplicationContext()).inflate(R.layout.img, null);
                 view.setBackgroundResource(pics[i]);
 
 
@@ -101,4 +101,5 @@ public class GuidePageViewDemo extends Activity {
 
 
     }
+
 }

@@ -6,7 +6,8 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Toast;
 
-import com.github.yf_library.banner.BannerInfo;
+import com.github.yf_library.banner.BannerEntity;
+import com.github.yf_library.banner.BannerEntity;
 import com.github.yf_library.banner.BannerStyle;
 import com.github.yf_library.banner.BannerView;
 import com.github.yf_library.banner.OnImageClickListener;
@@ -17,7 +18,7 @@ import java.util.List;
 public class BannerViewDemo extends Activity {
 
     private BannerView mBannerView;
-    private List<BannerInfo> data;
+    private List<BannerEntity> data;
     private BannerStyle bannerStyle;
     private String[] imageLocalUrls = {"drawable://" +R.drawable.banner1,
             "drawable://"+R.drawable.banner2,
@@ -37,9 +38,9 @@ public class BannerViewDemo extends Activity {
         init();
     }
     private void init(){
-        data = new ArrayList<BannerInfo>();
+        data = new ArrayList<BannerEntity>();
 
-        BannerInfo adDomain = new BannerInfo();
+        BannerEntity adDomain = new BannerEntity();
         adDomain.setId("108078");
         adDomain.setDate("3月4日");
         adDomain.setTitle("这是广告的标题");
@@ -52,7 +53,7 @@ public class BannerViewDemo extends Activity {
         adDomain.setAd(false);
         data.add(adDomain);
 
-        BannerInfo adDomain2 = new BannerInfo();
+        BannerEntity adDomain2 = new BannerEntity();
         adDomain2.setId("108078");
         adDomain2.setDate("3月5日");
         adDomain2.setTitle("这是广告的标题");
@@ -64,7 +65,7 @@ public class BannerViewDemo extends Activity {
         adDomain2.setAd(false);
         data.add(adDomain2);
 
-        BannerInfo adDomain3 = new BannerInfo();
+        BannerEntity adDomain3 = new BannerEntity();
         adDomain3.setId("108078");
         adDomain3.setDate("3月6日");
         adDomain3.setTitle("这是广告的标题");
@@ -77,7 +78,7 @@ public class BannerViewDemo extends Activity {
 
         data.add(adDomain3);
 
-        BannerInfo adDomain4 = new BannerInfo();
+        BannerEntity adDomain4 = new BannerEntity();
         adDomain4.setId("108078");
         adDomain4.setDate("3月7日");
         adDomain4.setTitle("这是广告的标题");
@@ -90,7 +91,7 @@ public class BannerViewDemo extends Activity {
 
         data.add(adDomain4);
 
-        BannerInfo adDomain5 = new BannerInfo();
+        BannerEntity adDomain5 = new BannerEntity();
         adDomain5.setId("108078");
         adDomain5.setDate("3月8日");
         adDomain5.setTitle("这是广告的标题");
@@ -111,11 +112,11 @@ public class BannerViewDemo extends Activity {
         bannerStyle.setmIndicatorStyle(BannerStyle.IndicatorStyle.INDIC);
         mBannerView.setBannerData(data, new OnImageClickListener() {
             @Override
-            public void onImageClick(BannerInfo info, int postion, View imageView) {
+            public void onImageClick(BannerEntity info, int postion, View imageView) {
                 // TODO Auto-generated method stub
                 //注意此处的postion是从1开始
                 startActivity(info.getmIntent());
-                Toast.makeText(getApplicationContext(), "点击了"+postion, Toast.LENGTH_SHORT).show();
+                Toast.makeText(getApplicationContext(), "点击了"+postion, 1).show();
             }
         });
     }

@@ -13,7 +13,7 @@
         android:layout_height="match_parent"
         app:time="6000"
         app:Bg="@drawable/guide2"
-        app:txt_style="@drawable/flag_01"
+        app:txt_style="@drawable/tag_bg_yfdef01"
         />
 
 </RelativeLayout>
