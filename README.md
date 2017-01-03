@@ -69,14 +69,17 @@
  - 在dependencies 中添加
    
     dependencies {
-    compile(name:'yf_Lib-release', ext:'aar')
+    compile(name:'yf_Library-release-0.1', ext:'aar')
     }
     
 2.maven导入
 
    还在测试中，敬请期待！
+   
+2.Jcenter导入
 
-
+  还在测试中，敬请期待。
+  
 ##代码（Code）
    以SplashVIew为例：
    在布局中添加：
