@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/rl"
+     >
+    <RelativeLayout 
+        android:id="@+id/tab_rl"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#EEEEEE"
+        >
+        
+      <ImageView 
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/icon_back_yfdef"
+        android:layout_alignParentLeft="true"
+        />
+       <LinearLayout 
+          android:id="@+id/tab01_ll"
+          android:layout_width="match_parent"
+          android:layout_height="match_parent"
+          android:background="#EEEEEE"
+          android:orientation="horizontal"
+          android:layout_centerVertical="true"
+        
+        >
+    </LinearLayout>
+      
+    </RelativeLayout>
+    
+   <HorizontalScrollView
+        android:id="@+id/hsv_menu"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#FFF"
+        android:scrollbars="none" >
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical" >
+
+            <RadioGroup
+                android:id="@+id/rg_items"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal" >
+            </RadioGroup>
+        </LinearLayout>
+    </HorizontalScrollView> 
+    
+
+
+    <android.support.v4.view.ViewPager
+        android:id="@+id/tab01_vp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        />
+    
+
+
+</RelativeLayout>

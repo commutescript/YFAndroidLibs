@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\AS_project\\YFAndroidLibs\\yf_Library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\bg_rb_checked.9.png",
+        "source": "D:\\AS_project\\YFAndroidLibs\\yf_Library\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\bg_rb_checked.9.png"
+    },
+    {
+        "merged": "D:\\AS_project\\YFAndroidLibs\\yf_Library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\top_banner_android.png",
+        "source": "D:\\AS_project\\YFAndroidLibs\\yf_Library\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\top_banner_android.png"
+    },
+    {
+        "merged": "D:\\AS_project\\YFAndroidLibs\\yf_Library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\shadow_article.png",
+        "source": "D:\\AS_project\\YFAndroidLibs\\yf_Library\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\shadow_article.png"
+    },
+    {
+        "merged": "D:\\AS_project\\YFAndroidLibs\\yf_Library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
+        "source": "D:\\AS_project\\YFAndroidLibs\\yf_Library\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ic_launcher.png"
+    }
+]

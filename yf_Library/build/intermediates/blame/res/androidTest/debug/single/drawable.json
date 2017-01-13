@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "D:\\AS_project\\YFAndroidLibs\\yf_Library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\tag_bg_yfdef01.xml",
+        "source": "D:\\AS_project\\YFAndroidLibs\\yf_Library\\build\\intermediates\\bundles\\debug\\res\\drawable\\tag_bg_yfdef01.xml"
+    },
+    {
+        "merged": "D:\\AS_project\\YFAndroidLibs\\yf_Library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\dot_yfdef.xml",
+        "source": "D:\\AS_project\\YFAndroidLibs\\yf_Library\\build\\intermediates\\bundles\\debug\\res\\drawable\\dot_yfdef.xml"
+    },
+    {
+        "merged": "D:\\AS_project\\YFAndroidLibs\\yf_Library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\dot_normal_yfdef.xml",
+        "source": "D:\\AS_project\\YFAndroidLibs\\yf_Library\\build\\intermediates\\bundles\\debug\\res\\drawable\\dot_normal_yfdef.xml"
+    },
+    {
+        "merged": "D:\\AS_project\\YFAndroidLibs\\yf_Library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\banner_txt_rec.xml",
+        "source": "D:\\AS_project\\YFAndroidLibs\\yf_Library\\build\\intermediates\\bundles\\debug\\res\\drawable\\banner_txt_rec.xml"
+    },
+    {
+        "merged": "D:\\AS_project\\YFAndroidLibs\\yf_Library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\letter_mid_bg.xml",
+        "source": "D:\\AS_project\\YFAndroidLibs\\yf_Library\\build\\intermediates\\bundles\\debug\\res\\drawable\\letter_mid_bg.xml"
+    },
+    {
+        "merged": "D:\\AS_project\\YFAndroidLibs\\yf_Library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\tab_bg_yfdef02.xml",
+        "source": "D:\\AS_project\\YFAndroidLibs\\yf_Library\\build\\intermediates\\bundles\\debug\\res\\drawable\\tab_bg_yfdef02.xml"
+    },
+    {
+        "merged": "D:\\AS_project\\YFAndroidLibs\\yf_Library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\radio_color_selector.xml",
+        "source": "D:\\AS_project\\YFAndroidLibs\\yf_Library\\build\\intermediates\\bundles\\debug\\res\\drawable\\radio_color_selector.xml"
+    },
+    {
+        "merged": "D:\\AS_project\\YFAndroidLibs\\yf_Library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\search_rounded.xml",
+        "source": "D:\\AS_project\\YFAndroidLibs\\yf_Library\\build\\intermediates\\bundles\\debug\\res\\drawable\\search_rounded.xml"
+    },
+    {
+        "merged": "D:\\AS_project\\YFAndroidLibs\\yf_Library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\search_clear_yfdef.xml",
+        "source": "D:\\AS_project\\YFAndroidLibs\\yf_Library\\build\\intermediates\\bundles\\debug\\res\\drawable\\search_clear_yfdef.xml"
+    },
+    {
+        "merged": "D:\\AS_project\\YFAndroidLibs\\yf_Library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\tag_seletor_yfdef.xml",
+        "source": "D:\\AS_project\\YFAndroidLibs\\yf_Library\\build\\intermediates\\bundles\\debug\\res\\drawable\\tag_seletor_yfdef.xml"
+    },
+    {
+        "merged": "D:\\AS_project\\YFAndroidLibs\\yf_Library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\dot_focused_yfdef.xml",
+        "source": "D:\\AS_project\\YFAndroidLibs\\yf_Library\\build\\intermediates\\bundles\\debug\\res\\drawable\\dot_focused_yfdef.xml"
+    },
+    {
+        "merged": "D:\\AS_project\\YFAndroidLibs\\yf_Library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\btn_bg_yfdef.xml",
+        "source": "D:\\AS_project\\YFAndroidLibs\\yf_Library\\build\\intermediates\\bundles\\debug\\res\\drawable\\btn_bg_yfdef.xml"
+    },
+    {
+        "merged": "D:\\AS_project\\YFAndroidLibs\\yf_Library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\letter_sort_bg.xml",
+        "source": "D:\\AS_project\\YFAndroidLibs\\yf_Library\\build\\intermediates\\bundles\\debug\\res\\drawable\\letter_sort_bg.xml"
+    }
+]

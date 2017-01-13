@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="base_actionbar_bg">#f5f5f5</color>
+    <color name="base_bg">#f4f6f6</color>
+    <color name="color_letter_text_normal">#9da0a4</color>
+    <color name="maincolor">#798FB9</color>
+    <color name="transparent">#00000000</color>
+    <declare-styleable name="SearchView"><attr format="integer" name="history_layoutId"/><attr format="integer" name="suggest_layoutId"/><attr format="string" name="search_hint"/></declare-styleable>
+    <declare-styleable name="SplashView"><attr format="integer" name="time"/><attr format="reference" name="Bg"/><attr format="reference" name="txt_style"/></declare-styleable>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="title_text_size">20sp</dimen>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">Yf_Library</string>
+    <string name="hello_world">Hello world!</string>
+    <style name="AppBaseTheme" parent="android:Theme.NoTitleBar">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="YFBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+    <style name="Dialog" parent="android:style/Theme.Dialog">
+        <item name="android:background">#00000000</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+    </style>
+    <style name="RightStyle">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_centerVertical">true</item>
+        <item name="android:paddingRight">10dp</item>
+        <item name="android:layout_alignParentRight">true</item>
+    </style>
+    <style name="TagDefApperance">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_centerVertical">true</item>
+        <item name="android:paddingRight">10dp</item>
+        <item name="android:layout_alignParentRight">true</item>
+    </style>
+    <style name="TitleIconStyle">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:src">@drawable/icon_back_yfdef</item>
+         <item name="android:layout_centerVertical">true</item>
+        <item name="android:layout_marginLeft">10dp</item>
+        
+   </style>
+    <style name="TitleTextStyle">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">40sp</item>
+        <item name="android:layout_marginTop">20dp</item>
+        <item name="android:textColor">#fff</item>
+        <item name="android:textSize">@dimen/title_text_size</item>
+        <item name="android:layout_centerHorizontal">true</item>
+        <item name="android:gravity">center</item>
+    </style>
+    <style name="TopLayoutStyle">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">70dp</item>
+        <item name="android:layout_alignParentTop">true</item>
+        <item name="android:background">@color/maincolor</item>
+        <item name="android:padding">1dp</item>
+    </style>
+    <style name="YFBaseTheme" parent="android:Theme.Light.NoTitleBar"/>
+    <style name="base_large_progressbar_style">
+        <item name="android:maxWidth">38.0dip</item>
+        <item name="android:maxHeight">38.0dip</item>
+        <item name="android:indeterminateDrawable">@anim/base_loading_large_anim</item>
+        <item name="android:minWidth">38.0dip</item>
+        <item name="android:minHeight">38.0dip</item>
+    </style>
+    <style name="base_listview_style" parent="@android:style/Widget.ListView">
+        <item name="android:scrollbarThumbVertical">@drawable/base_list_scrollbar_handle</item>
+        <item name="android:fadingEdgeLength">0.0dip</item>
+        <item name="android:alwaysDrawnWithCache">true</item>
+        <item name="android:drawSelectorOnTop">false</item>
+        <item name="android:cacheColorHint">@null</item>
+        <item name="android:divider">@null</item>
+        <item name="android:dividerHeight">0.0dip</item>
+       </style>
+    <style name="dot_style">
+        <item name="android:layout_width">5dip</item>
+        <item name="android:layout_height">5dip</item>
+        <item name="android:background">@drawable/dot_normal_yfdef</item>
+        <item name="android:layout_marginLeft">1.5dip</item>
+        <item name="android:layout_marginRight">1.5dip</item>
+    </style>
+    <style name="text_flag_01">  
+       <item name="android:layout_width">wrap_content</item>  
+       <item name="android:layout_height">wrap_content</item>  
+       <item name="android:layout_margin">4dp</item>  
+       <item name="android:background">@drawable/tag_bg_yfdef01</item>  
+       <item name="android:textColor">#ffffff</item>  
+   </style>
+</resources>

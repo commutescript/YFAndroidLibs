@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+     >
+    
+    <RelativeLayout 
+        android:id="@+id/search_rl"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#F49484"
+        >
+        <com.github.yf_library.common.ClearEditText
+            android:id="@+id/search_edit"
+            android:layout_width="match_parent"
+            android:layout_height="35dp"
+            android:layout_centerVertical="true"
+            android:layout_marginBottom="10dp"
+            android:layout_marginLeft="40dp"
+            android:layout_marginRight="40dp"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/search_rounded"
+            android:drawableLeft="@drawable/scan_qr"
+            android:drawablePadding="4dp"
+            android:gravity="center_vertical"
+            android:hint="请输入搜索内容"
+            android:textSize="16sp"
+            android:imeOptions="actionSearch"
+            android:paddingLeft="4dp"
+            android:singleLine="true" />
+        
+       <TextView
+            android:id="@+id/search_txt"
+            style="@style/RightStyle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="搜索"
+            />
+        
+    </RelativeLayout>
+    
+
+    <RelativeLayout 
+        android:id="@+id/rl01"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/search_rl"
+        >
+    <!-- 热词搜索 -->
+     <TextView 
+         android:id="@+id/hot_txt"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:text="热门搜索:"
+         android:layout_margin="5dp"
+        />
+    <com.github.yf_library.tag.TagView
+        android:id="@+id/hot_search_ll"
+        android:layout_below="@+id/hot_txt"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        >
+        
+        <!--  <TextView 
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="你好你好"
+            android:background="@drawable/flag_01"
+            android:layout_centerInParent="true"
+            />
+        <TextView 
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="不是你"
+            android:background="@drawable/flag_01"
+            
+            />
+     
+            
+        <TextView 
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="你好你好"
+            android:background="@drawable/flag_01"
+            
+            />
+    
+        <TextView 
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="杀人啦，要死啦"
+            android:background="@drawable/flag_01"
+            
+            />    
+            
+        <TextView 
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="嘻嘻"
+            android:background="@drawable/flag_01"
+            
+            />    
+            
+        <TextView 
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="哈哈哈哈哈哈哈哈哈哈哈"
+            android:background="@drawable/flag_01"
+            
+            />  --> 
+            
+
+        
+    </com.github.yf_library.tag.TagView>
+    <TextView 
+         android:id="@+id/his_txt"
+         android:layout_below="@+id/hot_search_ll"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:text="搜索历史"     
+         android:layout_margin="5dp"   
+        
+        />
+    
+    <!-- 历史记录 -->
+    
+   <ScrollView
+        android:id="@+id/sc_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/his_txt"
+        android:fadingEdge="none"
+        android:visibility="gone"
+        android:fillViewport="false">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <com.github.yf_library.common.ScrollListView
+                android:id="@+id/search_history_listview"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:dividerHeight="0.5dp" >
+            </com.github.yf_library.common.ScrollListView>
+
+            <Button
+                android:id="@+id/delete_history"
+                android:layout_width="200dp"
+                android:layout_height="40dp"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="8dp"
+                android:background="@drawable/btn_bg_yfdef"
+                android:text="清空搜索历史" />
+        </LinearLayout>
+    </ScrollView>
+    
+   
+      <RelativeLayout
+        android:id="@+id/nohistory"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/his_txt"
+        android:visibility="visible" >
+
+        <ImageView
+            android:id="@+id/img"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="56dp"
+            android:src="@drawable/nosearchhistory" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/img"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="32dp"
+            android:text="没有搜索历史哟"
+            android:textColor="#3d3d3d"
+            android:textSize="12sp" />
+    </RelativeLayout>
+        
+        
+    </RelativeLayout>
+    
+  
+    
+    <!-- 搜索建议 -->    
+   <ScrollView
+        android:id="@+id/suggest_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/rl01"
+        android:fadingEdge="none"
+        android:fillViewport="false">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <com.github.yf_library.common.ScrollListView
+                android:id="@+id/suggest_list"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:dividerHeight="0.5dp" >
+            </com.github.yf_library.common.ScrollListView>
+
+
+        </LinearLayout>
+    </ScrollView>
+    
+
+</RelativeLayout>

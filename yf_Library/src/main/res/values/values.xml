@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name = "SplashView">
+        <attr format="integer" name="time"/>
+        <attr format = "reference" name = "Bg"  />  
+        <attr format = "reference" name = "txt_style"  />  
+        
+    </declare-styleable>
+
+    
+    <declare-styleable name="SearchView">
+        <attr format="integer" name="history_layoutId"/>
+        <attr format="integer" name="suggest_layoutId"/>
+        
+        <attr format="string" name="search_hint"/>
+        
+    </declare-styleable>
+    
+</resources>

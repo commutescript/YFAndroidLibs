@@ -1,0 +1,82 @@
+[
+    {
+        "merged": "D:\\AS_project\\YFAndroidLibs\\yf_Library\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_dot_selected.png",
+        "source": "D:\\AS_project\\YFAndroidLibs\\yf_Library\\src\\main\\res\\drawable-hdpi\\icon_dot_selected.png"
+    },
+    {
+        "merged": "D:\\AS_project\\YFAndroidLibs\\yf_Library\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_guide_yfdef.png",
+        "source": "D:\\AS_project\\YFAndroidLibs\\yf_Library\\src\\main\\res\\drawable-hdpi\\icon_guide_yfdef.png"
+    },
+    {
+        "merged": "D:\\AS_project\\YFAndroidLibs\\yf_Library\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\search_clear_pressed.png",
+        "source": "D:\\AS_project\\YFAndroidLibs\\yf_Library\\src\\main\\res\\drawable-hdpi\\search_clear_pressed.png"
+    },
+    {
+        "merged": "D:\\AS_project\\YFAndroidLibs\\yf_Library\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\content_bg.9.png",
+        "source": "D:\\AS_project\\YFAndroidLibs\\yf_Library\\src\\main\\res\\drawable-hdpi\\content_bg.9.png"
+    },
+    {
+        "merged": "D:\\AS_project\\YFAndroidLibs\\yf_Library\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\base_loading_large_icon.png",
+        "source": "D:\\AS_project\\YFAndroidLibs\\yf_Library\\src\\main\\res\\drawable-hdpi\\base_loading_large_icon.png"
+    },
+    {
+        "merged": "D:\\AS_project\\YFAndroidLibs\\yf_Library\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\base_list_selector_disabled.9.png",
+        "source": "D:\\AS_project\\YFAndroidLibs\\yf_Library\\src\\main\\res\\drawable-hdpi\\base_list_selector_disabled.9.png"
+    },
+    {
+        "merged": "D:\\AS_project\\YFAndroidLibs\\yf_Library\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_back_yfdef.png",
+        "source": "D:\\AS_project\\YFAndroidLibs\\yf_Library\\src\\main\\res\\drawable-hdpi\\icon_back_yfdef.png"
+    },
+    {
+        "merged": "D:\\AS_project\\YFAndroidLibs\\yf_Library\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\base_list_divider_drawable.png",
+        "source": "D:\\AS_project\\YFAndroidLibs\\yf_Library\\src\\main\\res\\drawable-hdpi\\base_list_divider_drawable.png"
+    },
+    {
+        "merged": "D:\\AS_project\\YFAndroidLibs\\yf_Library\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dot_unselected.png",
+        "source": "D:\\AS_project\\YFAndroidLibs\\yf_Library\\src\\main\\res\\drawable-hdpi\\dot_unselected.png"
+    },
+    {
+        "merged": "D:\\AS_project\\YFAndroidLibs\\yf_Library\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nosearchhistory.png",
+        "source": "D:\\AS_project\\YFAndroidLibs\\yf_Library\\src\\main\\res\\drawable-hdpi\\nosearchhistory.png"
+    },
+    {
+        "merged": "D:\\AS_project\\YFAndroidLibs\\yf_Library\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\scan_qr.png",
+        "source": "D:\\AS_project\\YFAndroidLibs\\yf_Library\\src\\main\\res\\drawable-hdpi\\scan_qr.png"
+    },
+    {
+        "merged": "D:\\AS_project\\YFAndroidLibs\\yf_Library\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\selectcity_index_bg.9.png",
+        "source": "D:\\AS_project\\YFAndroidLibs\\yf_Library\\src\\main\\res\\drawable-hdpi\\selectcity_index_bg.9.png"
+    },
+    {
+        "merged": "D:\\AS_project\\YFAndroidLibs\\yf_Library\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_banner_yfdef.jpg",
+        "source": "D:\\AS_project\\YFAndroidLibs\\yf_Library\\src\\main\\res\\drawable-hdpi\\icon_banner_yfdef.jpg"
+    },
+    {
+        "merged": "D:\\AS_project\\YFAndroidLibs\\yf_Library\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\base_list_scrollbar_handle.9.png",
+        "source": "D:\\AS_project\\YFAndroidLibs\\yf_Library\\src\\main\\res\\drawable-hdpi\\base_list_scrollbar_handle.9.png"
+    },
+    {
+        "merged": "D:\\AS_project\\YFAndroidLibs\\yf_Library\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_bottom_yfdef.png",
+        "source": "D:\\AS_project\\YFAndroidLibs\\yf_Library\\src\\main\\res\\drawable-hdpi\\icon_bottom_yfdef.png"
+    },
+    {
+        "merged": "D:\\AS_project\\YFAndroidLibs\\yf_Library\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\search_clear_normal.png",
+        "source": "D:\\AS_project\\YFAndroidLibs\\yf_Library\\src\\main\\res\\drawable-hdpi\\search_clear_normal.png"
+    },
+    {
+        "merged": "D:\\AS_project\\YFAndroidLibs\\yf_Library\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\global_list_grain_bg_pressed.png",
+        "source": "D:\\AS_project\\YFAndroidLibs\\yf_Library\\src\\main\\res\\drawable-hdpi\\global_list_grain_bg_pressed.png"
+    },
+    {
+        "merged": "D:\\AS_project\\YFAndroidLibs\\yf_Library\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\base_list_selector_pressed.9.png",
+        "source": "D:\\AS_project\\YFAndroidLibs\\yf_Library\\src\\main\\res\\drawable-hdpi\\base_list_selector_pressed.9.png"
+    },
+    {
+        "merged": "D:\\AS_project\\YFAndroidLibs\\yf_Library\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\global_bg.png",
+        "source": "D:\\AS_project\\YFAndroidLibs\\yf_Library\\src\\main\\res\\drawable-hdpi\\global_bg.png"
+    },
+    {
+        "merged": "D:\\AS_project\\YFAndroidLibs\\yf_Library\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dw_now.png",
+        "source": "D:\\AS_project\\YFAndroidLibs\\yf_Library\\src\\main\\res\\drawable-hdpi\\dw_now.png"
+    }
+]

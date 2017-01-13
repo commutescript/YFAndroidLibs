@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="#ffffff"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="30dp"
+        android:layout_marginBottom="15dp"
+        android:layout_marginRight="30dp"
+        android:text="修改笔记"
+        android:layout_gravity="center_horizontal|center_vertical"
+        android:textColor="#000000"/>
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="1dp"
+        android:includeFontPadding="false"
+        android:background="#888888"/>
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+        android:layout_marginBottom="15dp"
+        >
+
+        <EditText
+            android:id="@+id/message"
+            android:layout_width="250dp"
+            android:layout_height="wrap_content"
+            android:background="@drawable/tag_bg_yfdef01"
+            android:layout_margin="10dp"
+            android:padding="10dp"
+            android:textSize="10sp"
+            android:hint="标题" />
+        <EditText
+            android:id="@+id/message02"
+            android:layout_width="250dp"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:background="@drawable/tag_bg_yfdef01"
+            android:textSize="10sp"
+            android:padding="10dp"
+            android:hint="标题" />
+
+    </LinearLayout>
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="1dp"
+        android:background="#7690A5"/>
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="fill_parent"
+        android:layout_height="40dp"
+        android:gravity="center_vertical">
+
+        <Button
+            android:id="@+id/positiveButton"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="fill_parent"
+            android:includeFontPadding="false"
+            android:textSize="14sp"
+            android:background="#F49484"
+            android:textColor="#000000"
+            android:gravity="center"
+            android:singleLine="true"
+            android:clickable="true"
+            android:text="确定"/>
+        <TextView
+            android:id="@+id/txv_dialog_common_diliver"
+            android:layout_width="1dp"
+            android:layout_height="60dp"
+            android:includeFontPadding="false"
+            android:background="#7690A5"/>
+        <Button
+            android:id="@+id/negativeButton"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="fill_parent"
+            android:includeFontPadding="false"
+            android:textSize="14sp"
+            android:textColor="#000000"
+            android:gravity="center"
+            android:singleLine="true"
+            android:clickable="true"
+            android:background="#F49484"
+            android:text="取消"/>
+    </LinearLayout>
+
+</LinearLayout>

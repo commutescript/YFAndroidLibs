@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "D:\\AS_project\\YFAndroidLibs\\yf_Library\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\guide_page_view.xml",
+        "source": "D:\\AS_project\\YFAndroidLibs\\yf_Library\\build\\intermediates\\bundles\\debug\\res\\layout\\guide_page_view.xml"
+    },
+    {
+        "merged": "D:\\AS_project\\YFAndroidLibs\\yf_Library\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\dialog_view_yfdef.xml",
+        "source": "D:\\AS_project\\YFAndroidLibs\\yf_Library\\build\\intermediates\\bundles\\debug\\res\\layout\\dialog_view_yfdef.xml"
+    },
+    {
+        "merged": "D:\\AS_project\\YFAndroidLibs\\yf_Library\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\splash_view.xml",
+        "source": "D:\\AS_project\\YFAndroidLibs\\yf_Library\\build\\intermediates\\bundles\\debug\\res\\layout\\splash_view.xml"
+    },
+    {
+        "merged": "D:\\AS_project\\YFAndroidLibs\\yf_Library\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\view_address_yfdef.xml",
+        "source": "D:\\AS_project\\YFAndroidLibs\\yf_Library\\build\\intermediates\\bundles\\debug\\res\\layout\\view_address_yfdef.xml"
+    },
+    {
+        "merged": "D:\\AS_project\\YFAndroidLibs\\yf_Library\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\select_city_item_yfdef.xml",
+        "source": "D:\\AS_project\\YFAndroidLibs\\yf_Library\\build\\intermediates\\bundles\\debug\\res\\layout\\select_city_item_yfdef.xml"
+    },
+    {
+        "merged": "D:\\AS_project\\YFAndroidLibs\\yf_Library\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\tab_view_yfdef.xml",
+        "source": "D:\\AS_project\\YFAndroidLibs\\yf_Library\\build\\intermediates\\bundles\\debug\\res\\layout\\tab_view_yfdef.xml"
+    },
+    {
+        "merged": "D:\\AS_project\\YFAndroidLibs\\yf_Library\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\dots_yfdef.xml",
+        "source": "D:\\AS_project\\YFAndroidLibs\\yf_Library\\build\\intermediates\\bundles\\debug\\res\\layout\\dots_yfdef.xml"
+    },
+    {
+        "merged": "D:\\AS_project\\YFAndroidLibs\\yf_Library\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\banner_view_yfdef.xml",
+        "source": "D:\\AS_project\\YFAndroidLibs\\yf_Library\\build\\intermediates\\bundles\\debug\\res\\layout\\banner_view_yfdef.xml"
+    },
+    {
+        "merged": "D:\\AS_project\\YFAndroidLibs\\yf_Library\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\search_city_item_yfdef.xml",
+        "source": "D:\\AS_project\\YFAndroidLibs\\yf_Library\\build\\intermediates\\bundles\\debug\\res\\layout\\search_city_item_yfdef.xml"
+    },
+    {
+        "merged": "D:\\AS_project\\YFAndroidLibs\\yf_Library\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\search_history_item_yfdef.xml",
+        "source": "D:\\AS_project\\YFAndroidLibs\\yf_Library\\build\\intermediates\\bundles\\debug\\res\\layout\\search_history_item_yfdef.xml"
+    },
+    {
+        "merged": "D:\\AS_project\\YFAndroidLibs\\yf_Library\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\base_load_empty_layout.xml",
+        "source": "D:\\AS_project\\YFAndroidLibs\\yf_Library\\build\\intermediates\\bundles\\debug\\res\\layout\\base_load_empty_layout.xml"
+    },
+    {
+        "merged": "D:\\AS_project\\YFAndroidLibs\\yf_Library\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\radiobtn_item_yfdef.xml",
+        "source": "D:\\AS_project\\YFAndroidLibs\\yf_Library\\build\\intermediates\\bundles\\debug\\res\\layout\\radiobtn_item_yfdef.xml"
+    },
+    {
+        "merged": "D:\\AS_project\\YFAndroidLibs\\yf_Library\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\search_view_yfdef.xml",
+        "source": "D:\\AS_project\\YFAndroidLibs\\yf_Library\\build\\intermediates\\bundles\\debug\\res\\layout\\search_view_yfdef.xml"
+    },
+    {
+        "merged": "D:\\AS_project\\YFAndroidLibs\\yf_Library\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\img_fitxy.xml",
+        "source": "D:\\AS_project\\YFAndroidLibs\\yf_Library\\build\\intermediates\\bundles\\debug\\res\\layout\\img_fitxy.xml"
+    }
+]

@@ -1,0 +1,487 @@
+[
+    {
+        "outputFile": "D:\\AS_project\\YFAndroidLibs\\yf_Library\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 51,
+                    "endOffset": 102
+                },
+                "from": {
+                    "file": "D:\\AS_project\\YFAndroidLibs\\yf_Library\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 166,
+                        "endColumn": 51,
+                        "endOffset": 213
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 107,
+                    "endColumn": 41,
+                    "endOffset": 144
+                },
+                "from": {
+                    "file": "D:\\AS_project\\YFAndroidLibs\\yf_Library\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 123,
+                        "endColumn": 41,
+                        "endOffset": 160
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 149,
+                    "endColumn": 58,
+                    "endOffset": 203
+                },
+                "from": {
+                    "file": "D:\\AS_project\\YFAndroidLibs\\yf_Library\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 63,
+                        "endColumn": 58,
+                        "endOffset": 117
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 208,
+                    "endColumn": 43,
+                    "endOffset": 247
+                },
+                "from": {
+                    "file": "D:\\AS_project\\YFAndroidLibs\\yf_Library\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 268,
+                        "endColumn": 43,
+                        "endOffset": 307
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 252,
+                    "endColumn": 47,
+                    "endOffset": 295
+                },
+                "from": {
+                    "file": "D:\\AS_project\\YFAndroidLibs\\yf_Library\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 219,
+                        "endColumn": 47,
+                        "endOffset": 262
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 677,
+                    "endColumn": 57,
+                    "endOffset": 730
+                },
+                "from": {
+                    "file": "D:\\AS_project\\YFAndroidLibs\\yf_Library\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 92,
+                        "endColumn": 57,
+                        "endOffset": 145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 735,
+                    "endColumn": 55,
+                    "endOffset": 786
+                },
+                "from": {
+                    "file": "D:\\AS_project\\YFAndroidLibs\\yf_Library\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 151,
+                        "endColumn": 55,
+                        "endOffset": 202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 791,
+                    "endColumn": 46,
+                    "endOffset": 833
+                },
+                "from": {
+                    "file": "D:\\AS_project\\YFAndroidLibs\\yf_Library\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 208,
+                        "endColumn": 46,
+                        "endOffset": 250
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 838,
+                    "endColumn": 52,
+                    "endOffset": 886
+                },
+                "from": {
+                    "file": "D:\\AS_project\\YFAndroidLibs\\yf_Library\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 161,
+                        "endColumn": 52,
+                        "endOffset": 209
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 891,
+                    "endColumn": 47,
+                    "endOffset": 934
+                },
+                "from": {
+                    "file": "D:\\AS_project\\YFAndroidLibs\\yf_Library\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 58,
+                        "endColumn": 47,
+                        "endOffset": 101
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 939,
+                    "endColumn": 52,
+                    "endOffset": 987
+                },
+                "from": {
+                    "file": "D:\\AS_project\\YFAndroidLibs\\yf_Library\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 107,
+                        "endColumn": 52,
+                        "endOffset": 155
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 992,
+                    "endLine": 21,
+                    "endColumn": 12,
+                    "endOffset": 1283
+                },
+                "from": {
+                    "file": "D:\\AS_project\\YFAndroidLibs\\yf_Library\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 191,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 486
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1288,
+                    "endLine": 24,
+                    "endColumn": 12,
+                    "endOffset": 1442
+                },
+                "from": {
+                    "file": "D:\\AS_project\\YFAndroidLibs\\yf_Library\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 607,
+                        "endLine": 19,
+                        "endColumn": 12,
+                        "endOffset": 763
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1447,
+                    "endLine": 30,
+                    "endColumn": 12,
+                    "endOffset": 1767
+                },
+                "from": {
+                    "file": "D:\\AS_project\\YFAndroidLibs\\yf_Library\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 47,
+                        "startColumn": 4,
+                        "startOffset": 1881,
+                        "endLine": 52,
+                        "endColumn": 12,
+                        "endOffset": 2206
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 1772,
+                    "endLine": 37,
+                    "endColumn": 12,
+                    "endOffset": 2117
+                },
+                "from": {
+                    "file": "D:\\AS_project\\YFAndroidLibs\\yf_Library\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 5,
+                        "startOffset": 1518,
+                        "endLine": 45,
+                        "endColumn": 12,
+                        "endOffset": 1869
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 2122,
+                    "endLine": 44,
+                    "endColumn": 12,
+                    "endOffset": 2472
+                },
+                "from": {
+                    "file": "D:\\AS_project\\YFAndroidLibs\\yf_Library\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 54,
+                        "startColumn": 4,
+                        "startOffset": 2218,
+                        "endLine": 60,
+                        "endColumn": 12,
+                        "endOffset": 2574
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 2477,
+                    "endLine": 52,
+                    "endColumn": 11,
+                    "endOffset": 2841
+                },
+                "from": {
+                    "file": "D:\\AS_project\\YFAndroidLibs\\yf_Library\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 73,
+                        "startColumn": 5,
+                        "startOffset": 2975,
+                        "endLine": 80,
+                        "endColumn": 11,
+                        "endOffset": 3346
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 53,
+                    "startColumn": 4,
+                    "startOffset": 2846,
+                    "endLine": 61,
+                    "endColumn": 12,
+                    "endOffset": 3298
+                },
+                "from": {
+                    "file": "D:\\AS_project\\YFAndroidLibs\\yf_Library\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 83,
+                        "startColumn": 5,
+                        "startOffset": 3386,
+                        "endLine": 91,
+                        "endColumn": 12,
+                        "endOffset": 3846
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 62,
+                    "startColumn": 4,
+                    "startOffset": 3303,
+                    "endLine": 68,
+                    "endColumn": 12,
+                    "endOffset": 3637
+                },
+                "from": {
+                    "file": "D:\\AS_project\\YFAndroidLibs\\yf_Library\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 63,
+                        "startColumn": 4,
+                        "startOffset": 2588,
+                        "endLine": 69,
+                        "endColumn": 12,
+                        "endOffset": 2928
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 69,
+                    "startColumn": 4,
+                    "startOffset": 3642,
+                    "endColumn": 71,
+                    "endOffset": 3709
+                },
+                "from": {
+                    "file": "D:\\AS_project\\YFAndroidLibs\\yf_Library\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 492,
+                        "endColumn": 72,
+                        "endOffset": 560
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 70,
+                    "startColumn": 4,
+                    "startOffset": 3714,
+                    "endLine": 76,
+                    "endColumn": 12,
+                    "endOffset": 4072
+                },
+                "from": {
+                    "file": "D:\\AS_project\\YFAndroidLibs\\yf_Library\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 104,
+                        "startColumn": 4,
+                        "startOffset": 4423,
+                        "endLine": 110,
+                        "endColumn": 12,
+                        "endOffset": 4787
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 77,
+                    "startColumn": 4,
+                    "startOffset": 4077,
+                    "endLine": 85,
+                    "endColumn": 15,
+                    "endOffset": 4609
+                },
+                "from": {
+                    "file": "D:\\AS_project\\YFAndroidLibs\\yf_Library\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 94,
+                        "startColumn": 7,
+                        "startOffset": 3868,
+                        "endLine": 102,
+                        "endColumn": 15,
+                        "endOffset": 4408
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 86,
+                    "startColumn": 4,
+                    "startOffset": 4614,
+                    "endLine": 92,
+                    "endColumn": 12,
+                    "endOffset": 4957
+                },
+                "from": {
+                    "file": "D:\\AS_project\\YFAndroidLibs\\yf_Library\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 781,
+                        "endLine": 28,
+                        "endColumn": 12,
+                        "endOffset": 1130
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 93,
+                    "startColumn": 4,
+                    "startOffset": 4962,
+                    "endLine": 99,
+                    "endColumn": 11,
+                    "endOffset": 5313
+                },
+                "from": {
+                    "file": "D:\\AS_project\\YFAndroidLibs\\yf_Library\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 1142,
+                        "endLine": 36,
+                        "endColumn": 11,
+                        "endOffset": 1499
+                    }
+                }
+            }
+        ]
+    }
+]
